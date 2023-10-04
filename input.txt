@@ -1,0 +1,25 @@
+#include<stdio.h> 
+/* This is a test case for lexical analyser.
+This must be ignored/**///
+
+int mian(){
+    int ab,b; 
+    a=1;
+    a+=5;
+    bolo flag=true;
+    if(a>=4 && flag){
+        flag=false;
+        printf("Hello World");
+    }
+    int sum=0;
+    int i= 0b101101;
+    //i= 0x2FA;
+    //i=0x2FA;
+    i= 054;
+    i=0;
+    float t= 8.97;
+    char v='r';
+    char p[]="hello";
+    a= 4e5;
+    return 0;
+}
