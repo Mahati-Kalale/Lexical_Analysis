@@ -7,8 +7,8 @@ lexical errors. The Symbol Table is designed using Hashing and Chaining techniqu
 Instructions to run the code in Linux OS
 1. Save the input.txt file in the same folder as the lexicalAnalyser.l file
 2. Change the terminal Directory to the Directory having both the above files
-3. Run the commands:
-   flex lexicalAnalyser.l
-   gcc lex.yy.c
+3. Run the commands:<br>
+   flex lexicalAnalyser.l<br>
+   gcc lex.yy.c<br>
    ./a.out
    
